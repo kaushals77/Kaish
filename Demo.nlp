@@ -1,0 +1,13 @@
+# Project description file
+
+project.name=Demo
+project.version=8.2
+project.original.version=8.2
+product.name=NeoLoad
+product.original.name=NeoLoad
+product.original.version=7.9.1
+project.id=f8d0f81e-34ee-4dc4-b9e9-e1c740c001aa
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=true
+team.server.project=kaushals77/Kaish.git
